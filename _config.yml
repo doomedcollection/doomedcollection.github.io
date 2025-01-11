@@ -11,7 +11,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 moving:
   avatar_url: "https://kuurth.com/cdn/shop/articles/The_Story_of_the_Fallen_Angel_by_Alexander_Cabanel_584b384b-a9da-4410-8acf-366ca11c05a9.jpg?v=1663084830" # avatar in about page
-  about_you: A riff-hungry metal dork reveling in the heavy, the raw, and the unholy!
+  about_you: A riff-hungry metal dork reveling in the heavy and the unholy!
   date_format: "%b %d" # date format of posts in home page
   back_to: "Collection" # In the post page, you have a back button above the title, you can custom the text by yourself.
 
