@@ -1,6 +1,5 @@
 ---
 layout: post
-category: 2022
 slug: wayward
 title: Aiwass - Wayward Gods
 ---
