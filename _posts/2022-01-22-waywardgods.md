@@ -2,7 +2,6 @@
 layout: post
 slug: wayward
 title: Aiwass - Wayward Gods
-tags: [doom, review]
 ---
 
 ![Aiwass - Wayward Gods](/img/wayward.jpg)
